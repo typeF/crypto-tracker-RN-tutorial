@@ -25,6 +25,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "expo": "^25.0.0",
     "fb-watchman": "^2.0.0",
     "react": "16.2.0",
