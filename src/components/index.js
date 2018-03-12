@@ -1,3 +1,4 @@
 import Header from './Header.js';
+import CryptoContainer from './CryptoContainer';
 
-export default Header;
+export { Header, CryptoContainer };
