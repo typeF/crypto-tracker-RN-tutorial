@@ -10,8 +10,8 @@ export default class App extends React.Component {
     return (
       <Provider store={Store}>
         <View> 
-          <CryptoContainer/>
           <Header/>
+          <CryptoContainer/>
         </View>
       </Provider>
     );
